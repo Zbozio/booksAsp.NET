@@ -1,0 +1,49 @@
+﻿@model Bazowane.Models.Ocena
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Ocena</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdOceny" />
+            <div class="form-group">
+                <label asp-for="IdKsiazkaNavigation.Tytul" class="control-label"></label>
+                <input asp-for="IdKsiazkaNavigation.Tytul" class="form-control" />
+                <span asp-validation-for="IdKsiazkaNavigation.Tytul" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ocena1" class="control-label">Ocena</label>
+                <input asp-for="Ocena1" class="form-control" max="10" />
+                <span asp-validation-for="Ocena1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Opinia" class="control-label"></label>
+                <input asp-for="Opinia" class="form-control" />
+                <span asp-validation-for="Opinia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataOceny" class="control-label"></label>
+                <input asp-for="DataOceny" class="form-control" />
+                <span asp-validation-for="DataOceny" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

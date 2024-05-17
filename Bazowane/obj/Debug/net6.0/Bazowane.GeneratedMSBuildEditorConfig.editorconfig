@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bazowane
+build_property.RootNamespace = Bazowane
+build_property.ProjectDir = C:\Users\karol\source\repos\Bazowane\Bazowane\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\karol\source\repos\Bazowane\Bazowane
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Home/Ksiazki.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLc2lhemtpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ksiazkas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ksiazkas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ksiazkas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ksiazkas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ksiazkas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpYXprYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ocenas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ocenas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ocenas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ocenas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Ocenas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/Bazowane/Bazowane/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hd6k7ghpod

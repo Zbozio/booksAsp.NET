@@ -8,13 +8,17 @@ namespace Bazowane.Controllers
 	{
 		private readonly ILogger<HomeController> _logger;
 
-		public HomeController(ILogger<HomeController> logger)
+        private readonly BazowaneContext bazowaneContext;
+
+        public HomeController(ILogger<HomeController> logger, BazowaneContext bazowaneContext)
 		{
 			_logger = logger;
+			this.bazowaneContext= bazowaneContext;
 		}
 
 		public IActionResult Index()
 		{
+			var ksiazki = bazowaneContext.Ksiazkas.ToList();
 			return View();
 		}
 
